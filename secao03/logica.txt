@@ -1,0 +1,10 @@
+Given (dado)
+  uma entrada
+  e um comportamento das dependências
+
+When (quando)
+  executo o caso de uso
+
+Then (então)
+  obtenho a saída esperada
+  e as dependências foram utilizadas corretamente
